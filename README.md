@@ -1,4 +1,2 @@
 # todo
-do my todo list for me
-
-please
+dont do the cat
