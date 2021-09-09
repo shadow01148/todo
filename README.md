@@ -4,5 +4,5 @@ do my todo list for me (anything)
 please
 
 rules:
-I dont buy you stuff
+I dont buy your stuff
 thats all
