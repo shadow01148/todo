@@ -1,8 +1,6 @@
-# todo
-do my todo list for me (anything)
+# TODO
+Do my TODO list for me 
 
-please
+Rules:
+I don't buy you shit
 
-rules:
-I dont buy you stuff
-thats all
